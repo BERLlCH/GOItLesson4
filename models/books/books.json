@@ -1,0 +1,37 @@
+[
+  {
+    "id": "zCd_RioNMOBaQwAXnc8Px",
+    "title": "Understanding ECMAScript 6",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "e1Tpn_I3wBkLREY6wG0lb",
+    "title": "Learning JavaScript Design Patterns",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "dkJSszfrRVtLVR_MfRqcu",
+    "title": "Pro Git",
+    "author": "Scott Chacon and Ben Straub"
+  },
+  {
+    "id": "CTHE0f1kkWwqS5sL2tI8_",
+    "title": "Rethinking Productivity in Software Engineering",
+    "author": "Caitlin Sadowski, Thomas Zimmermann"
+  },
+  {
+    "id": "3h-__ijhkplQnPtVRSwzx",
+    "author": "Elon Mask",
+    "title": "Something"
+  },
+  {
+    "id": "dtAwEHoYIyNe_vGxo5frh",
+    "author": "Some Author",
+    "title": "Something"
+  },
+  {
+    "id": "h8Prt-vaXKdX6cZHGfYB0",
+    "author": "Some Author",
+    "title": "Something123"
+  }
+]
